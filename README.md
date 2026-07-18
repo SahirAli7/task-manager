@@ -21,7 +21,7 @@ A web-based task manager application that lets users add, complete, and delete t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sahirali7/task-manager.git
+   git clone https://github.com/SahirAli7/task-manager.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -29,4 +29,4 @@ A web-based task manager application that lets users add, complete, and delete t
    ```
 3. Open `index.html` in your browser.
 
-Or visit the live hosted version at: [Live URL](https://Sahirali7.github.io/task-manager/)
+Or visit the live hosted version at: [Live URL](https://SahirAli7.github.io/task-manager/)
