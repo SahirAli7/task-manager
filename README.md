@@ -29,4 +29,4 @@ A web-based task manager application that lets users add, complete, and delete t
    ```
 3. Open `index.html` in your browser.
 
-Or visit the live hosted version at: [Live URL](#)
+Or visit the live hosted version at: [Live URL](https://sahirali7.github.io/task-manager/)
